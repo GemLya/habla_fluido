@@ -1,0 +1,9 @@
+<!--
+  NO reemplaces tu Info.plist con este archivo.
+  Copia estas 4 líneas DENTRO del <dict> principal de ios/Runner/Info.plist
+  (por ejemplo, justo antes de </dict> al final del archivo).
+-->
+<key>NSMicrophoneUsageDescription</key>
+<string>Usamos el micrófono para comprobar tu pronunciación en inglés.</string>
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>Usamos el reconocimiento de voz de Apple para saber qué palabras dijiste y darte retroalimentación.</string>
